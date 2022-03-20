@@ -1,0 +1,17 @@
+[
+    {
+        "title": "JavaScript",
+        "name": "User1",
+        "content": "Keep at it, practice every day!"
+    },
+    {
+        "title": "React",
+        "name": "User2",
+        "content": "Learn how to use useState and useEffect correctly, everything comes easier afterwards."
+    },
+    {
+        "title": "Studying",
+        "name": "User3",
+        "content": "If you can, get a tutor. Watch code along videos mutiple times to understand the code."
+    }
+]

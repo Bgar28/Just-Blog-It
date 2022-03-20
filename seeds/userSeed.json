@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Blue",
+        "userame": "Duke",
+        "email": "bluedevils@gmail.com",
+        "password": "Password1"
+    },
+    {
+        "name": "Maize",
+        "username": "Michigan",
+        "email": "wolverines@gmail.com",
+        "password": "Password1"
+    },
+    {
+        "name": "Splash",
+        "username": "GoldenState",
+        "email": "warriors@gmail.com",
+        "password": "Password1"
+    },
+    {
+        "name": "Vaccine",
+        "username": "Brooklyn",
+        "email": "nets@gmail.com",
+        "password": "Password1"
+    },
+    {
+        "name": "Windy",
+        "username": "Chicago",
+        "email": "bulls@gmail.com",
+        "password": "Password1"
+    }
+]
